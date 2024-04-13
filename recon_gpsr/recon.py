@@ -37,7 +37,7 @@ np.random.seed(1337)
 # matdata = '../data/H_beam_sparsity16(deepMIMO).mat'
 # dataname = 'H_beam_sparsity_syn'
 
-matdata = '../data/2020otc_H_beam_sparsity_syn16.mat'
+matdata = 'C:/ALI/GitHub/DL-CE-27/data/2020otc_H_beam_sparsity_syn16.mat'
 dataname = 'H_beam_sparsity_syn'
 
 
